@@ -1,0 +1,19 @@
+# Large public downloads, fetched by src/build_sample.py (about 2.8 GB in all)
+data/raw/*.zip
+data/raw/*.part
+
+# Built from the raw files by src/build_sample.py
+data/processed/
+
+# Secrets
+*.key
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store

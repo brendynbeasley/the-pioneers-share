@@ -1,0 +1,9 @@
+step,count
+KPSS patents granted 2000-2014,1238587
+with a firm (permco) and positive value,1238587
+PatentsView citation rows read,145878465
+unique citations pointing at sample patents,24183980
+citations to sample patents within ten years,13537728
+  of which from the same firm (permco),2660440
+  of which from the same assignee,2509358
+sample patents with no CPC class,359

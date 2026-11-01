@@ -1,0 +1,18 @@
+quantity,value
+"median patent value, $M 2024",8.978129312973037
+mean own follow-on patents per patent (S),2.1479637683909165
+mean outside follow-on patents per patent (E),8.782013697867004
+share of patents with any own follow-on,0.3619438925162302
+share of patents with any outside follow-on,0.7759543738146776
+top-code for S (99.9th percentile),152.0
+top-code for E (99.9th percentile),317.0
+percent value per own follow-on patent,0.19519169576865725
+percent value per outside follow-on patent,0.03541517755241995
+"dollars per own follow-on patent at median, $ thousand 2024",17.524562854294967
+"dollars per outside follow-on patent at median, $ thousand 2024",3.179620437075262
+lambda,0.18143793163411162
+lambda 95% CI low,0.055757723598689884
+lambda 95% CI high,0.3071181396695334
+"p-value, lambda = 1",0.009685569475494494
+"p-value, lambda = 1/2",0.039946893153339595
+share of patents not under their KPSS firm's most common assignee,0.2409552175180266
